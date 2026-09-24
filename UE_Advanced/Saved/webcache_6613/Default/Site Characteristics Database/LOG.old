@@ -1,5 +1,0 @@
-2026/09/22-09:18:32.989 2320 Log #3: 2 ops saved to Table #4 OK
-2026/09/22-09:18:33.005 2320 Archiving C:\Users\baptiste.verdier\UE-Advanced\UE_Advanced\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/09/22-09:18:33.005 2320 Table #4: 2 entries OK
-2026/09/22-09:18:33.007 2320 Archiving C:\Users\baptiste.verdier\UE-Advanced\UE_Advanced\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/09/22-09:18:33.011 2320 **** Repaired leveldb C:\Users\baptiste.verdier\UE-Advanced\UE_Advanced\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
